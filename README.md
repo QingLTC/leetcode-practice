@@ -10,10 +10,11 @@ A dedicated repository for daily LeetCode practice, algorithm templates, and pro
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array / Hash Table | [📂 Code](./1-two-sum) | ✅ Mastered |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | Math / String / Simulation | [📂 Code](./412-fizz-buzz) | ✅ Mastered |
-| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | Math / String / Simulation | [📂 Code](./1444-number-of-steps-to-reduce-a-number-to-zero) | ✅ Mastered |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | Math / Bit Manipulation | [📂 Code](./1444-number-of-steps-to-reduce-a-number-to-zero) | ✅ Mastered |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | Array / Prefix Sum | [📂 Code](./1603-running-sum-of-1d-array) | ✅ Mastered |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | Array / Matrix | [📂 Code](./1791-richest-customer-wealth) | ✅ Mastered |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Hard | Array / Hash Table / Binary Indexed Tree / Segment Tree | [📂 Code](./3139-subarrays-distinct-element-sum-of-squares-ii) | 🔄 Redo |
+| 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | Array / Hash Table / Sorting | [📂 Code](./3847-minimum-swaps-to-sort-by-digit-sum) | 🔄 Redo |
 
 ---
 
