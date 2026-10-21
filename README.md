@@ -9,6 +9,7 @@ A dedicated repository for daily LeetCode practice, algorithm templates, and pro
 | # | Problem Title | Difficulty | Category / Core Technique | Solution | Status |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array / Hash Table | [📂 Code](./1-two-sum) | ✅ Mastered |
+| 0383 | [Ransom Note](https://leetcode.com/problems/fizz-buzz/) | Easy | Math / String / Simulation | [📂 Code](./412-fizz-buzz) | ✅ Mastered |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | Math / String / Simulation | [📂 Code](./412-fizz-buzz) | ✅ Mastered |
 | 0876 | [Middle of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Linked List / Two Pointers | [📂 Code](./908-middle-of-the-linked-list) | ✅ Mastered |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | Math / Bit Manipulation | [📂 Code](./1444-number-of-steps-to-reduce-a-number-to-zero) | ✅ Mastered |
